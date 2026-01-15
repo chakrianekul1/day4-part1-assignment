@@ -1,5 +1,5 @@
 #!/bin/bash
 while true; do
-echo "$(date) - logged"
+echo "$(date) - logging...."
 sleep 5
 done
